@@ -1,5 +1,4 @@
-# clickstream-analytics-platform
-Understand user behavior with real-time click tracking &amp; analytics. Track, visualize &amp; analyze user click behavior in real-time
+
 # ClickStream Analytics Platform
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
@@ -20,18 +19,6 @@ Track, visualize, and analyze user click behavior in real-time with this interac
 - **Data Export** - Download reports as CSV
 - **User Activity Monitoring** - Individual user journey tracking
 
-### 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/clickstream-analytics-platform.git
-cd clickstream-analytics-platform
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-streamlit run app.py
 📊 Dashboard Preview
 Home - Interactive demo area with click tracking
 
@@ -52,7 +39,7 @@ Database: SQLite
 
 Language: Python 3.8+
 
-📁 Project Structure
+## 📁 Project Structure
 text
 clickstream-analytics-platform/
 ├── app.py              # Main application
@@ -60,7 +47,7 @@ clickstream-analytics-platform/
 ├── requirements.txt    # Dependencies
 ├── data/              # SQLite database
 └── README.md          # Documentation
-🎯 Use Cases
+## 🎯 Use Cases
 Website analytics and monitoring
 
 User behavior research
@@ -71,30 +58,18 @@ Conversion funnel optimization
 
 User engagement tracking
 
-📄 License
+## 📄 License
 MIT License - feel free to use and modify!
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Built with ❤️ using Python & Streamlit
 
-text
 
-## 🏷️ GitHub Topics Tags
+## Author
+**Hamdan Saddique**
 
-Add these topics to your repo:
-clickstream, analytics, dashboard, real-time, streamlit, python,
-data-visualization, user-tracking, web-analytics, sqlite, plotly,
-user-behavior, click-tracking, data-analytics
-
-text
-
-## 🔗 Badge Links for README
-
-You can also add these badges to your README:
-
-```markdown
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
