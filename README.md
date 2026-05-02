@@ -21,6 +21,7 @@ Track, visualize, and analyze user click behavior in real-time with this interac
 
 📊 Dashboard Preview
 Home - Interactive demo area with click tracking
+<img width="1337" height="532" alt="Image" src="https://github.com/user-attachments/assets/00ab6628-d906-4eaf-8c14-088bf340f8fb" />
 
 Dashboard - Live metrics and visualizations
 
