@@ -24,6 +24,7 @@ Home - Interactive demo area with click tracking
 <img width="1337" height="532" alt="Image" src="https://github.com/user-attachments/assets/00ab6628-d906-4eaf-8c14-088bf340f8fb" />
 
 Dashboard - Live metrics and visualizations
+<img width="1325" height="532" alt="Image" src="https://github.com/user-attachments/assets/4501fb4e-d309-4748-979b-e57fc5459b8a" />
 
 Analytics - Advanced user behavior analysis
 
