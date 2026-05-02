@@ -33,7 +33,7 @@ Reports - Data export and summary reports
 <img width="1304" height="512" alt="Image" src="https://github.com/user-attachments/assets/003747ef-c908-451b-a294-16e078ae920a" />
 
 User Activity - Individual user tracking
-
+<img width="1182" height="509" alt="Image" src="https://github.com/user-attachments/assets/ac869430-64b6-443d-a45e-72e6555b2669" />
 🛠️ Tech Stack
 Frontend: Streamlit
 
