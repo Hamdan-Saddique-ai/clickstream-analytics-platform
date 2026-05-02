@@ -27,6 +27,7 @@ Dashboard - Live metrics and visualizations
 <img width="1325" height="532" alt="Image" src="https://github.com/user-attachments/assets/4501fb4e-d309-4748-979b-e57fc5459b8a" />
 
 Analytics - Advanced user behavior analysis
+<img width="1308" height="492" alt="Image" src="https://github.com/user-attachments/assets/e19f5be1-f97b-4fe4-83bf-3e289877a1e3" />
 
 Reports - Data export and summary reports
 
