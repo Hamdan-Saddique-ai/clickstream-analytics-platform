@@ -30,6 +30,7 @@ Analytics - Advanced user behavior analysis
 <img width="1308" height="492" alt="Image" src="https://github.com/user-attachments/assets/e19f5be1-f97b-4fe4-83bf-3e289877a1e3" />
 
 Reports - Data export and summary reports
+<img width="1304" height="512" alt="Image" src="https://github.com/user-attachments/assets/003747ef-c908-451b-a294-16e078ae920a" />
 
 User Activity - Individual user tracking
 
