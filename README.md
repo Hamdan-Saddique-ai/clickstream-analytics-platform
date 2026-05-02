@@ -1,5 +1,6 @@
 
 # ClickStream Analytics Platform
+<img width="1349" height="646" alt="Image" src="https://github.com/user-attachments/assets/414eb41a-628c-4291-9ee7-7aa77ae0c275" />
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
